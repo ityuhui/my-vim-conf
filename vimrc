@@ -1,7 +1,9 @@
 set nocp
 
+" tab的长度为4个空格
 set ts=4
 
+" 用空格代替tab
 set expandtab
 
 set autoindent
