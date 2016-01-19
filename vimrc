@@ -22,6 +22,8 @@ set fileencoding=utf-8
 
 language messages zh_CN.utf-8
 
+colorscheme evening
+
 nmap <F9> <ESc>:!ctags -R *<CR>
 
 "set mouse=a
