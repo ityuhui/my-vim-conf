@@ -1,5 +1,7 @@
 set nocp
 
+set laststatus=2
+
 " tab的长度为4个空格
 set ts=4
 
