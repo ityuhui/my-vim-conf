@@ -22,7 +22,7 @@ set termencoding=utf-8
 
 set fileencoding=utf-8
 
-language messages zh_CN.utf-8
+"language messages zh_CN.utf-8
 
 colorscheme evening
 
@@ -37,3 +37,6 @@ let g:winManagerWindowLayout = "FileExplorer|TagList"
 let g:winManagerWidth = 30
 "定义打开关闭winmanager快捷键为F8
 nmap <silent> <F8> :WMToggle<cr>
+
+cs add $CSCOPE_DB
+
