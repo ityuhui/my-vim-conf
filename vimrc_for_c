@@ -14,6 +14,8 @@ set backspace=2
 
 syntax on
 
+set nocscopeverbose
+
 set guifont=Courier\ 14
 
 set encoding=utf-8
